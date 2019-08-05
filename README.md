@@ -19,6 +19,7 @@ This library is in its early stages, but I welcome contributors who would like t
 To add the library to your React Native project:
 
 ```
+npm install react-native-svg --save
 npm install react-native-pathjs-charts --save
 react-native link react-native-svg
 ```
