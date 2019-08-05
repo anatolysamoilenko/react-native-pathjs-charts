@@ -200,7 +200,7 @@ export default class LineChart extends Component {
             strokeWidth={strokeWidthForCurve}
             strokeOpacity={strokeOpacityForCurve}
             fill="none"
-            strokeDasharray={strokeDasharrayForCurve}
+            // strokeDasharray={strokeDasharrayForCurve}
           />
         );
       }.bind(this)
